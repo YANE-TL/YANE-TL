@@ -1,5 +1,5 @@
-- 👋 Hi, 我是杨文
-- 我努力啊✨
+- 👋 Hi, bor
+- ✨
 <!---
 YANE-TL/YANE-TL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
